@@ -1,5 +1,10 @@
 # Ex-01-Simple-Web-Server
-## Date:
+Name: PRAVEEN K
+
+Department: Artificial intelligence and data science
+
+Reference number: 23014148
+ 
 
 ## AIM:
 To develop a simple webserver to serve html pages.

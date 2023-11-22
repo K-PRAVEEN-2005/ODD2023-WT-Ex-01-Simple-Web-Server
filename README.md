@@ -48,7 +48,8 @@ httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()
 
 ## OUTPUT:
-![Alt text](<web server.png>)
+![web server](https://github.com/K-PRAVEEN-2005/ODD2023-WT-Ex-01-Simple-Web-Server/assets/145742724/034c4ead-94f7-42ef-9969-cb9e069113e7)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
